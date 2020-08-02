@@ -1,0 +1,29 @@
+{
+  "name": "bmdtool",
+  "version": "0.1.0",
+  "description": "Extract Nintendo BMD/BDL assets",
+  "homepage": "https://github.com/jameskirkwood/2019-06-bmdtool",
+  "author": {
+    "name": "James Kirkwood",
+    "url": "https://github.com/jameskirkwood"
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "index.js",
+  "bin": "index.js",
+  "keywords": [
+    "nintendo",
+    "wii",
+    "gamecube",
+    "cli"
+  ],
+  "engines": {
+    "npm": ">= 4.0.0"
+  },
+  "repository": "jameskirkwood/2019-06-bmdtool",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.20.0"
+  }
+}
